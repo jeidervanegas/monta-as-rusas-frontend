@@ -26,7 +26,7 @@ export const IndexPages = () => {
  
 
               <div className='grid text-left mt-10  py-10 px-6 rounded-lg card mb-20'>
-                <img src="/src/img/mundo.svg" alt="" />
+                <img src="/src/img/nosotros.svg" alt="imagen sobre nosotros" />
                 <div>
                   <h3 className='text-center text-2xl mb-4 text-orange-400 font-bold'>Conoce nuestra forma de trabajar</h3>
                   <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Illum est laborum magnam ipsa officiis tempora nisi facilis dolorum, esse eveniet, voluptatibus assumenda accusamus nam laboriosam quidem odio culpa, optio fugit. Lorem ipsum dolor sit amet consectetur adipisicing elit. Veritatis, esse sunt maxime quae libero tempore et illum, possimus placeat sequi molestiae quidem vitae eum dolores quod quam. Perspiciatis, magnam non.</p>
